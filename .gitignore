@@ -6,7 +6,6 @@
 /public/js
 /public/mix-manifest.json
 public/media/
-public/build/
 /vendor
 /.idea
 /.vagrant
@@ -18,3 +17,4 @@ public/build/
 /log
 .phpunit.result.cache
 pint.json
+.DS_Store

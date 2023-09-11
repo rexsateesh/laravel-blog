@@ -1,7 +1,7 @@
 import 'trumbowyg'
 
 $('.trumbowyg-form').trumbowyg({
-  svgPath: '/js/ui/icons.svg'
+  svgPath: '/resources/icons.svg'
 })
 
 // Toggle the side navigation
